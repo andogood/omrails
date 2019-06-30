@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Ruby version
 
+Ruby 2.6.3
+
 * System dependencies
 
 * Configuration
@@ -22,3 +24,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+I am using One Month Rails to help me build my first Ruby on Rails Project for Griffith University Car Pool.
